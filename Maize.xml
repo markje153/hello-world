@@ -3483,7 +3483,7 @@ The variety NSCM_41 is a Zimbabwean early maturing hybrid.  Photoperiod response
       <Command>[Grain].MaximumPotentialGrainSize.FixedValue = 0.375</Command>
     </Cultivar>
     <Cultivar>
-      <Name>Makueni</Name>
+      <Name>CSC VAR 6</Name>
       <Memo>
         <Name>memo</Name>
         <IncludeInDocumentation>true</IncludeInDocumentation>
